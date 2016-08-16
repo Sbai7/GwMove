@@ -1,4 +1,4 @@
-# GwMove
+# GwMove - Groundwater Move Software
 [![DOI](https://zenodo.org/badge/23898/Sbai7/GwMove.svg)](https://zenodo.org/badge/latestdoi/23898/Sbai7/GwMove)
 
 Please use the following citation when reporting results with this software:
