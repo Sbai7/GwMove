@@ -2,6 +2,7 @@
 [![DOI](https://zenodo.org/badge/23898/Sbai7/GwMove.svg)](https://zenodo.org/badge/latestdoi/23898/Sbai7/GwMove)
 
 Please use the following citation when reporting results with this software:
+
 Sbai, M.A. (2016). GwMove: Groundwater Modelling Software for Water Resources Professionals and Researchers (Steady-state version). Zenodo. doi:10.5281/zenodo.60296
 
 ![Alt text](pictures/fr/Diapositive1.GIF?raw=true "")
