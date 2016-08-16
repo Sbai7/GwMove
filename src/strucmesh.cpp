@@ -216,7 +216,7 @@ namespace happ
       for (i = 0; i < locNodes; surface[i++] = 0.);
 
       // transformer les coord 3D des noeuds 
-      // aux coord 2D dans le repére (R,S) du plan;
+      // aux coord 2D dans le repÃ©re (R,S) du plan;
       // et renumerotation dans le plan
 
       // define constants and local element coordinates
