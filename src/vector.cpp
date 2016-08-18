@@ -243,7 +243,7 @@ namespace happ
 #ifdef HAPP_DEBUG
       if (offset + vs > size)
       {
-         mfem_error("Vector::SetVector(const Vector &, int)");
+         happ_error("Vector::SetVector(const Vector &, int)");
       }
 #endif
 
@@ -284,7 +284,7 @@ namespace happ
 #ifdef HAPP_DEBUG
       if (v.size != v1.size || v.size != v2.size)
       {
-         mfem_error("add(Vector &v1, double alpha, Vector &v2, Vector &v)");
+         happ_error("add(Vector &v1, double alpha, Vector &v2, Vector &v)");
       }
 #endif
       if (alpha == 0.0)
