@@ -99,7 +99,7 @@ namespace happ
 
 #endif
 
-// Generate a warning message - always generated, regardless of MFEM_DEBUG.
+// Generate a warning message - always generated, regardless of HAPP_DEBUG.
 #define HAPP_WARNING(msg) _HAPP_MESSAGE("HAPP Warning: " << msg, 1)
 
 #endif // #ifndef HydroApp_ERROR
