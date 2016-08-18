@@ -224,7 +224,6 @@ namespace happ
       /// Compute the Euclidean distance to another vector.
       double DistanceTo(const double *p) const;
 
-      /* AS Additions to this class */
       /// Returns the mean of the vector. 
       double Mean() const; 
       /// Returns the variance of the vector. 
@@ -249,7 +248,6 @@ namespace happ
       double Covariance2(const Vector& y) const;
       /// Calculate Pearson's Correlation meaasure between two vectors. 
       double Pearson(const Vector& y) const;
-      /* End AS Additions to this class */
 
       /** Count the number of entries in the Vector for which isfinite
       is false, i.e. the entry is a NaN or +/-Inf. */
