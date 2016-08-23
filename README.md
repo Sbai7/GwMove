@@ -3,7 +3,7 @@
 
 GwMove stands for 'Groundwater Move' is a C++ code for finite element analysis of groundwater flow in three-dimensional subsurface aquifers. It is being developed at BRGM (French Geological Survey) in the framework of European FP7 (ERANET-MED action) research program MEDAQCLIM. 
 
-Please use the following citation when reporting results with this software:
+GwMove is an open source initiative *copylefted* under the terms of [GPL3 license](http://www.gnu.org/licenses/gpl-3.0.html). It's brought to you to be useful by helping you not to reinvent the wheel. We'll be very pleased to use the following citation when reporting results with this program:
 
 Sbai, M.A. (2016). GwMove: Groundwater Modelling Software for Water Resources Professionals and Researchers (Steady-state version). Zenodo. doi:10.5281/zenodo.60296
 
